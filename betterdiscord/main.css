@@ -930,6 +930,8 @@
 .theme-dark .addGamePopout-2RY8Ju {
   background: var(--background-secondary-alt);
 }
+.theme-dark .gameNameInput-385LoS:hover, .theme-dark .gameNameInput-385LoS:focus { background: var(--background-secondary-alt); border: none;}
+.theme-dark .game-1ipmAa { box-shadow: 0 1px 0 0 var(--background-secondary); }
 .css-17e1tep-control {
   border: none;
 }
