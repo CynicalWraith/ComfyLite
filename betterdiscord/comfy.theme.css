@@ -5,6 +5,8 @@
 * @version 1.0
 */
 
+@import url(https://1literzinalco.github.io/ComfyLite/betterdiscord/main.css);
+
 /* If you don't like one of those variables until "Other settings" you can delete them or you can also
     try to change those if you have some css knowledge */
 
@@ -78,6 +80,3 @@
     --header-secondary: #b1b5b9;
     --text-normal: #8e9297;
 }
-
-/* Import actual theme */
-@import url(https://1literzinalco.github.io/ComfyLite/betterdiscord/main.css);
