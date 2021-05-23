@@ -21,11 +21,11 @@
   padding: 6px;
 }
 .winButtonClose-1HsbF-::after {
-  background-image: url("https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/close.png?raw=true");
+  background-image: url("https://1literzinalco.github.io/ComfyLite/assets/close.png");
   background-size: 100%;
 }
 .winButtonClose-1HsbF-:hover::after {
-  background-image: url("https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/close_hover.png?raw=true");
+  background-image: url("https://1literzinalco.github.io/ComfyLite/assets/close_hover.png");
   background-size: 100%;
 }
 
@@ -331,7 +331,7 @@
   background-color: #1e2233;
 }
 .customEmojiPlaceholder-37iZ_j {
-  background-image: url("https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/emoji.png?raw=true");
+  background-image: url("https://1literzinalco.github.io/ComfyLite/assets/emoji.png");
 }
 
 /* Custom status */
@@ -787,10 +787,10 @@
   background-repeat: no-repeat;
 }
 .navList-2UtuhC #sticker-picker-tab .navButton-2gQCx-:after {
-  background-image: url("https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/stickers.png?raw=true");
+  background-image: url("https://1literzinalco.github.io/ComfyLite/assets/stickers.png");
 }
 .navList-2UtuhC #emoji-picker-tab .navButton-2gQCx-:after {
-  background-image: url("https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/emoji.png?raw=true");
+  background-image: url("https://1literzinalco.github.io/ComfyLite/assets/emoji.png");
 }
 .navList-2UtuhC .navButton-2gQCx- {
   width: 40px;

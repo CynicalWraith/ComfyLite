@@ -11,7 +11,7 @@ Stay comfy while talking to your friends. A theme for BetterDiscord.
 
 > ⚠ Please note that Discord modifications violate Discord's terms and conditions. _However, I don't know anyone who got banned for that yet..._
 
-1. Go [here](https://raw.githubusercontent.com/1LiterZinalco/ComfyLite/master/betterdiscord/comfy.theme.css)
+1. Go [here](https://1literzinalco.github.io/ComfyLite/betterdiscord/comfy.theme.css)
 2. Save the file (Control + S) into your theme folder (``%appdata%\BetterDiscord\themes``)
 
 ## Credits
