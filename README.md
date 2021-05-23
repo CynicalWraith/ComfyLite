@@ -1,11 +1,11 @@
-![Banner](https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/banner.png)
+![Banner](https://1literzinalco.github.io/ComfyLite/assets/banner.png)
 
 ---
 
 # ComfyLite
 
 Stay comfy while talking to your friends. A theme for BetterDiscord.
-![Preview](https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/preview.jpg)
+![Preview](https://1literzinalco.github.io/ComfyLite/assets/preview.jpg)
 
 ## 📥 Installation
 
