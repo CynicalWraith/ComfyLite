@@ -1,28 +1,20 @@
-![Banner](https://nyri4.github.io/Comfy/assets/banner.png)
+![Banner](https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/banner.png?raw=true)
 
 ---
 
-# Comfy
-![Preview](https://i.ibb.co/5cWJGRP/Preview.png)
+# ComfyLite
+
+Stay comfy while talking to your friends. A theme for BetterDiscord.
+![Preview](https://github.com/1LiterZinalco/ComfyLite/blob/master/assets/preview.jpg?raw=true)
 
 ## 📥 Installation
 
-### Powercord & Vizality
+> ⚠ Please note that Discord modifications violate Discord's terms and conditions. _However, I don't know anyone who got banned for that yet..._
 
-```sh
-git clone https://github.com/NYRI4/Comfy-git-clone
-```
-
-### BetterDiscord
-
-1. Go [here](https://betterdiscord.app/Download?id=130)
-2. Save the file into your theme folder
-
-## 🖌️ Customization
-Go into your theme folder > Comfy > support
-- For BetterDiscord : `comfy.theme.css`
-- For Powercord/Vizality : `_custom.css`
+1. Go [here](https://raw.githubusercontent.com/1LiterZinalco/ComfyLite/master/betterdiscord/comfy.theme.css)
+2. Save the file (Control + S) into your theme folder (``%appdata%\BetterDiscord\themes``)
 
 ## Credits
 
-Thanks a lot to Snapperito, Harley, Tropical and others peeps that I forgot for the help !
+This is a fork of [NYRI4/Comfy](https://github.com/NYRI4/Comfy).
+Thanks a lot to Snapperito, Harley, Tropical and others peeps that I forgot for the help!
