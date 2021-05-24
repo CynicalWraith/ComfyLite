@@ -1238,10 +1238,6 @@
 /* Status in menu */
 .menu-3sdvDG .pointerEvents-2zdfdO:not([mask="url(#svg-mask-status-online-mobile)"]) { width: 10px; height: 10px; stroke-width: 2.5px;}
 
-/* Typing dots */
-.dots-3Bkt3k { overflow: visible;}
-.dots-3Bkt3k circle { cy: 5.5;}
-
 /* Buttons */
 .container-3auIfb,
 .input-rwLH4i {
